@@ -1,5 +1,21 @@
 # Best-foss-apps-for-privacy-&-security-for-android
 
+>***Note: this list was created by [@finalboss@mas.to](https://mas.to/@finalboss) and it is currently presented in its original form.***
+
+>>*Some changes have been made to the "Best Browser" section:*
+>>- *Moved FF, Fennec, Mull to top of list, prior to Brave*
+>>- *Moved Bromite to bottom, added note regarding project abandonment*
+>>- *Added Cromite in place of Bromite, moved "Highly Recommended" icon to Cromite*
+>>- *Added Betterfox under FF/Fennec/Mull, clarified statement about Firefox*
+>>- *Changed URL for "Hardening Brave Browser" to fork*
+>>- *Added GitHub/repo links where available*
+
+>>*The "How to Harden Brave Browser" guide was likewise created by [@finalboss@mas.to](https://mas.to/@finalboss), but I've forked it, as the below paragraph is applicable to both projects.*
+
+>*Given that the project appears to be abandoned (last activity was 12/2022), it seems an ideal list to build off of.* ~ SunDevil311
+
+&nbsp;
+
 ________________________
 [👑 - Privacy Community Fav]
 
@@ -10,24 +26,36 @@ __________________________
 
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀 <img src="https://cdn-icons-png.flaticon.com/128/3003/3003530.png" width="25" height="25"/>:
 
-• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a>🇺🇲 ⭐❤ ([𝙃𝙤𝙬 𝙩𝙤 𝙝𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/Finalboss77/Hardening-Brave-Browser) )
-   
-(𝘏𝘢𝘳𝘥𝘦𝘯 𝘉𝘳𝘢𝘷𝘦 𝘉𝘳𝘰𝘸𝘴𝘦𝘳 𝘣𝘦𝘧𝘰𝘳𝘦 𝘶𝘴𝘪𝘯𝘨 𝘪𝘵)
-
-
-
-               
-• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a>🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴 eg.<a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec </a> , <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> ⭐❤️
+• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a> 🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴, e.g. <a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec</a> <sup>[Repo](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)</sup>, <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> <sup>[GitHub](https://github.com/Divested-Mobile/Mull-Fenix)</sup> ⭐ ❤️ 
 👑
-(𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹 ,𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘮𝘢𝘯𝘺 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly </a> )
 
-•<img src="https://www.bromite.org/bromite.png" width="20" height="20"/><a href="https://www.bromite.org/">Bromite</a>🌍 ⭐
+(𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹, 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 <s>𝘮𝘢𝘯𝘺</s> *some* 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 *[possibly]* 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly</a>)
+- [Betterfox](https://github.com/yokoffing/Betterfox) ⭐ ❤
+  - removes much of the uncertainty and ambiguity regarding editing of  the `user.js` file
 
-(𝘐𝘧 𝘺𝘰𝘶 𝘸𝘢𝘯𝘵 𝘊𝘩𝘳𝘰𝘮𝘦 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘭𝘪𝘬𝘦 𝘉𝘳𝘰𝘮𝘪𝘵𝘦)
+&nbsp;
 
+• <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/brave_browser_logo_icon_153013.png" width="20" height="20"/> <a href="https://play.google.com/store/apps/details?id=com.brave.browser">Brave</a> <sup>[GitHub](https://github.com/brave/brave-browser)</sup> 🇺🇲 ⭐ ([𝙃𝙤𝙬 𝙩𝙤 𝙃𝙖𝙧𝙙𝙚𝙣 𝘽𝙧𝙖𝙫𝙚 𝘽𝙧𝙤𝙬𝙨𝙚𝙧](https://github.com/NetEng-Pro/Hardening-Brave-Browser/))
+- Harden Brave Browser before using it! See <a href="#chrome">caveat</a>.
 
-🚫𝙋𝙡𝙚𝙖𝙨𝙚 𝙙𝙤𝙣𝙤𝙩 𝙪𝙨𝙚 𝘾𝙝𝙧𝙤𝙢𝙚 𝙖𝙣𝙙 𝙖𝙡𝙨𝙤 ✅ 𝙡𝙚𝙩 𝙮𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 & 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙠𝙣𝙤𝙬 𝙩𝙝𝙖𝙩 𝙩𝙝𝙚𝙧𝙚 𝙖𝙧𝙚 𝙢𝙖𝙣𝙮 𝙜𝙤𝙤𝙙 𝙖𝙡𝙩𝙚𝙧𝙣𝙖𝙩𝙞𝙫𝙚𝙨,𝙞 𝙧𝙚𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙮𝙤𝙪 𝙩𝙤 𝙡𝙚𝙩 𝙩𝙝𝙚𝙢 𝙩𝙧𝙮 𝘽𝙧𝙤𝙢𝙞𝙩𝙚 𝙖𝙨 𝙞𝙩 𝙡𝙤𝙤𝙠𝙨 𝙡𝙞𝙠𝙚 𝙘𝙝𝙧𝙤𝙢𝙚
+&nbsp;
 
+• <img src="https://camo.githubusercontent.com/6b4ee03be91712db2d81b603a1bb83553e97b66fa49443bf27b641089ea51696/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67" width="20" height="20"> <a href="https://github.com/uazo/cromite/">Cromite</a> 🌍 ⭐
+- If you want a Chrome interface, you may like Cromite. See <a href="#chrome">caveat</a>.
+
+&nbsp;
+
+>***Note: while the repository for Bromite is still up, the project is largely considered abandoned. Cromite is recommended instead.***
+
+• <img src="https://www.bromite.org/bromite.png" width="20" height="20"/> <a href="https://www.bromite.org/">Bromite</a> <sup>[GitHub](https://github.com/bromite/bromite)</sup> 🌍
+
+&nbsp;
+
+<p id="chrome">🚫 𝙋𝙡𝙚𝙖𝙨𝙚 <b><i>DO NOT</i></b> 𝙪𝙨𝙚 𝘾𝙝𝙧𝙤𝙢𝙚, 𝙖𝙣𝙙 ✅ 𝙡𝙚𝙩 𝙮𝙤𝙪𝙧 𝙛𝙖𝙢𝙞𝙡𝙮 <b><i>&</i></b> 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙠𝙣𝙤𝙬 𝙩𝙝𝙖𝙩 𝙩𝙝𝙚𝙧𝙚 𝙖𝙧𝙚 𝙜𝙤𝙤𝙙 𝙖𝙡𝙩𝙚𝙧𝙣𝙖𝙩𝙞𝙫𝙚𝙨. <b><i>I</i></b> 𝙧𝙚𝙘𝙤𝙢𝙢𝙚𝙣𝙙 𝙮𝙤𝙪 𝙩𝙤 𝙡𝙚𝙩 𝙩𝙝𝙚𝙢 𝙩𝙧𝙮 𝘾𝙧𝙤𝙢𝙞𝙩𝙚, 𝙖𝙨 𝙞𝙩 𝙡𝙤𝙤𝙠𝙨 𝙡𝙞𝙠𝙚 𝘾𝙝𝙧𝙤𝙢𝙚.</p>
+
+>>Please bear in mind that by utilizing Chromium-based browsers, such as Cromite and Brave, you're choosing to perpetuate Google's domination of the browser market, as well as aiding in the further proliferation of the Chromium framework.
+
+>>Cromite and Brave will significantly improve your security and better safeguard your privacy, but IMO these browsers are, sadly, fruit of the poisonous tree, so to speak. ~ SunDevil311
 
 _________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲<img src="https://cdn-icons-png.flaticon.com/512/954/954591.png" width="20" height="20"/>:
