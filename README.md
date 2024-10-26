@@ -26,7 +26,7 @@ __________________________
 
 ☆ 𝗕𝗲𝘀𝘁 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀 <img src="https://cdn-icons-png.flaticon.com/128/3003/3003530.png" width="25" height="25"/>:
 
-• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.mozilla.org/en-GB/firefox/new/">Firefox</a> 🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴, e.g. <a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec</a> <sup>[Repo](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)</sup>, <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> <sup>[GitHub](https://github.com/Divested-Mobile/Mull-Fenix)</sup> ⭐ ❤️ 
+• <img src="https://user-images.githubusercontent.com/104879897/206898853-4de2afcb-dfe0-434b-8aff-945cf2895a0d.png" width="20" height="20"/> <a href="https://www.firefox.com/">Firefox</a> 🇺🇲 𝘢𝘯𝘥 𝘪𝘵𝘴 𝘍𝘖𝘚𝘚 𝘷𝘦𝘳𝘴𝘪𝘰𝘯𝘴, e.g. <a href="https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/">Fennec</a> <sup>[Repo](https://hg.mozilla.org/mozilla-central/file/tip/mobile/android)</sup>, <a href="https://f-droid.org/packages/us.spotco.fennec_dos/">Mull</a> <sup>[GitHub](https://github.com/Divested-Mobile/Mull-Fenix)</sup> ⭐ ❤️ 
 👑
 
 (𝘛𝘰 𝘶𝘴𝘦 𝘍𝘪𝘳𝘦𝘧𝘰𝘹, 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 <s>𝘮𝘢𝘯𝘺</s> *some* 𝘤𝘩𝘢𝘯𝘨𝘦𝘴 𝘢𝘯𝘥 *[possibly]* 𝘢𝘥𝘥 𝘴𝘰𝘮𝘦 𝘢𝘥𝘥𝘰𝘯𝘴 𝘵𝘰 𝘺𝘰𝘶𝘳 𝘣𝘳𝘰𝘸𝘴𝘦𝘳. <a href="https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/">Learn how to make Firefox more privacy friendly</a>)
