@@ -55,7 +55,7 @@ __________________________
 
 >>Please bear in mind that by utilizing Chromium-based browsers, such as Cromite and Brave, you're choosing to perpetuate Google's domination of the browser market, as well as aiding in the further proliferation of the Chromium framework.
 
->>Cromite and Brave will significantly improve your security and better safeguard your privacy, but IMO these browsers are, sadly, fruit of the poisonous tree, so to speak. ~ SunDevil311
+>>Cromite and Brave will significantly improve your security and better safeguard your privacy, but IMO these browsers are, sadly, fruit of the poisonous tree, so to speak. As such, you are <strong><em>strongly</em></strong> urged to utilize [Firefox](https://www.firefox.com/) or one of its FLOSS forks, [Fennec](https://www.f-droid.org/packages/org.mozilla.fennec_fdroid/) or [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/). ~ SunDevil311
 
 _________________________________________
 ☆ 𝗕𝗲𝘀𝘁 𝗦𝗲𝗮𝗿𝗰𝗵 𝗘𝗻𝗴𝗶𝗻𝗲<img src="https://cdn-icons-png.flaticon.com/512/954/954591.png" width="20" height="20"/>:
